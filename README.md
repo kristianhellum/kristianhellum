@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kristianhellum
+- 👋 Hi, I’m [@kristianhellum](https://twitter.com/kristianhellum)
 - 👀 I’m interested in many things, like soccer, gaming, hiking, bitcoin, music, smarthomes, IoT and more...
 - 🌱 I’m currently learning about bitcoin and therefore also history, economy, society and technology
 - 💞️ I’m looking to collaborate on things that I think is fun, rewarding, useful and/or interesting
-- 📫 How to reach me? [kristianhellum.no](https://kristianhellum.no/contact.html) or [@kristianhellum](https://twitter.com/kristianhellum) on twitter
+- 📫 How to reach me? [kristianhellum.no](https://kristianhellum.no/contact.html) or [twitter](https://twitter.com/kristianhellum)
